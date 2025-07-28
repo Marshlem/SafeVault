@@ -1,4 +1,4 @@
-SafeVault
+SafeVault /n
 SafeVault is a secure web application designed to manage sensitive data, including user credentials and financial records. The goal of this project is to provide a secure, easy-to-use platform that ensures user data is protected from common vulnerabilities such as SQL injection and Cross-Site Scripting (XSS). SafeVault implements best practices for secure coding, user authentication, authorization (role-based access control), and input validation.
 Features
 •	Input Validation: Ensures that all user inputs are sanitized and validated to prevent common attacks like SQL injection and XSS.
